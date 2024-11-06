@@ -25,11 +25,11 @@ async def on_message(message):
     # List of responses
     responses = [
         "Made by changcheng967 (xqqzldh), Have a Nice Day!",
-        "Made by changcheng967 (xqqzldh), Shut up!",
-        "Made by changcheng967 (xqqzldh), What the f*** B****, shut up!",
-        "Made by changcheng967 (xqqzldh), Fuck you! ",
-        "Made by changcheng967 (xqqzldh), Fuck Off N*gger!",
-        "Made by changcheng967 (xqqzldh), You have a big D***",
+        "Made by changcheng967 (xqqzldh), ",
+        "Made by changcheng967 (xqqzldh), ",
+        "Made by changcheng967 (xqqzldh),  ",
+        "Made by changcheng967 (xqqzldh), ",
+        "Made by changcheng967 (xqqzldh), ",
     ]
 
     # Pick a random response
