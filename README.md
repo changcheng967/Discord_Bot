@@ -21,4 +21,15 @@ This is a simple Discord bot that automatically replies to user messages with a 
    ```
    pip install requirements.txt
    ```
-4. Run Bot.py
+4.replace 'YOUR_DISCORD_BOT_TOKEN' with your actual discord bot token
+   
+## Running the Bot
+Run the bot.py script:
+
+```sh
+python bot.py
+```
+Your Discord bot should now be up and running, responding to all messages with a randomly chosen response from the list, including the username of the message sender.
+
+## Contributing
+If you want to contribute to this project, feel free to open a pull request or issue on GitHub.
